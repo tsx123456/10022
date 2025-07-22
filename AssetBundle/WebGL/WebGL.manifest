@@ -1,0 +1,195 @@
+ManifestFileVersion: 0
+CRC: 2659683589
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/fish2donline/anim.ab
+      Dependencies: {}
+    Info_1:
+      Name: assets/fish2donline/audios.ab
+      Dependencies: {}
+    Info_2:
+      Name: assets/fish2donline/canno.ab
+      Dependencies:
+        Dependency_0: assets/fish2donline/eff/materials.ab
+        Dependency_1: assets/fish2donline/eff/mod.ab
+        Dependency_2: assets/fish2donline/textures/bullet.ab
+        Dependency_3: assets/fish2donline/textures/canno.ab
+    Info_3:
+      Name: assets/fish2donline/eff.ab
+      Dependencies:
+        Dependency_0: assets/fish2donline/eff/materials.ab
+        Dependency_1: assets/fish2donline/eff/mod.ab
+    Info_4:
+      Name: assets/fish2donline/fish.ab
+      Dependencies:
+        Dependency_0: assets/fish2donline/eff/materials.ab
+        Dependency_1: assets/fish2donline/textures/fish_spine.ab
+        Dependency_2: assets/fish2donline/textures/main.ab
+    Info_5:
+      Name: assets/fish2donline/font.ab
+      Dependencies: {}
+    Info_6:
+      Name: assets/fish2donline/scripts.ab
+      Dependencies: {}
+    Info_7:
+      Name: assets/fish2donline/uiitem.ab
+      Dependencies:
+        Dependency_0: assets/fish2donline/anim.ab
+        Dependency_1: assets/fish2donline/font.ab
+        Dependency_2: assets/fish2donline/eff/materials.ab
+        Dependency_3: assets/fish2donline/eff/mod.ab
+        Dependency_4: assets/fish2donline/textures/bg.ab
+        Dependency_5: assets/fish2donline/textures/boss_laixi.ab
+        Dependency_6: assets/fish2donline/textures/cannownd.ab
+        Dependency_7: assets/fish2donline/textures/fish_book.ab
+        Dependency_8: assets/fish2donline/textures/main.ab
+        Dependency_9: assets/fish2donline/textures/zhongjiang.ab
+        Dependency_10: assets/fish2donline/language/cn_ch/main.ab
+        Dependency_11: assets/fish2donline/language/cn_ch/zhongjiang.ab
+    Info_8:
+      Name: assets/fish2donline/uiwnd.ab
+      Dependencies:
+        Dependency_0: assets/fish2donline/textures/cannownd.ab
+        Dependency_1: assets/fish2donline/textures/fish_book.ab
+        Dependency_2: assets/fish2donline/textures/main.ab
+        Dependency_3: assets/fish2donline/language/cn_ch/cannownd.ab
+        Dependency_4: assets/fish2donline/language/cn_ch/fish_book.ab
+    Info_9:
+      Name: assets/fish2donline/eff/materials.ab
+      Dependencies:
+        Dependency_0: assets/fish2donline/eff/textures.ab
+        Dependency_1: assets/fish2donline/textures/bg.ab
+    Info_10:
+      Name: assets/fish2donline/eff/mod.ab
+      Dependencies:
+        Dependency_0: assets/fish2donline/eff/mod/materials.ab
+    Info_11:
+      Name: assets/fish2donline/eff/textures.ab
+      Dependencies: {}
+    Info_12:
+      Name: assets/fish2donline/textures/bg.ab
+      Dependencies: {}
+    Info_13:
+      Name: assets/fish2donline/textures/boss_laixi.ab
+      Dependencies: {}
+    Info_14:
+      Name: assets/fish2donline/textures/bullet.ab
+      Dependencies: {}
+    Info_15:
+      Name: assets/fish2donline/textures/canno.ab
+      Dependencies: {}
+    Info_16:
+      Name: assets/fish2donline/textures/cannownd.ab
+      Dependencies: {}
+    Info_17:
+      Name: assets/fish2donline/textures/fish_book.ab
+      Dependencies: {}
+    Info_18:
+      Name: assets/fish2donline/textures/fish_spine.ab
+      Dependencies: {}
+    Info_19:
+      Name: assets/fish2donline/textures/main.ab
+      Dependencies: {}
+    Info_20:
+      Name: assets/fish2donline/textures/zhongjiang.ab
+      Dependencies: {}
+    Info_21:
+      Name: assets/fish2donline/eff/mod/materials.ab
+      Dependencies: {}
+    Info_22:
+      Name: assets/fish2donline/language/asia_hindi/cannownd.ab
+      Dependencies: {}
+    Info_23:
+      Name: assets/fish2donline/language/asia_hindi/fish_book.ab
+      Dependencies: {}
+    Info_24:
+      Name: assets/fish2donline/language/asia_hindi/main.ab
+      Dependencies: {}
+    Info_25:
+      Name: assets/fish2donline/language/asia_hindi/zhongjiang.ab
+      Dependencies: {}
+    Info_26:
+      Name: assets/fish2donline/language/asia_indonesia/cannownd.ab
+      Dependencies: {}
+    Info_27:
+      Name: assets/fish2donline/language/asia_indonesia/fish_book.ab
+      Dependencies: {}
+    Info_28:
+      Name: assets/fish2donline/language/asia_indonesia/main.ab
+      Dependencies: {}
+    Info_29:
+      Name: assets/fish2donline/language/asia_indonesia/zhongjiang.ab
+      Dependencies: {}
+    Info_30:
+      Name: assets/fish2donline/language/asia_japan/cannownd.ab
+      Dependencies: {}
+    Info_31:
+      Name: assets/fish2donline/language/asia_japan/fish_book.ab
+      Dependencies: {}
+    Info_32:
+      Name: assets/fish2donline/language/asia_japan/main.ab
+      Dependencies: {}
+    Info_33:
+      Name: assets/fish2donline/language/asia_japan/zhongjiang.ab
+      Dependencies: {}
+    Info_34:
+      Name: assets/fish2donline/language/asia_korea/cannownd.ab
+      Dependencies: {}
+    Info_35:
+      Name: assets/fish2donline/language/asia_korea/fish_book.ab
+      Dependencies: {}
+    Info_36:
+      Name: assets/fish2donline/language/asia_korea/main.ab
+      Dependencies: {}
+    Info_37:
+      Name: assets/fish2donline/language/asia_korea/zhongjiang.ab
+      Dependencies: {}
+    Info_38:
+      Name: assets/fish2donline/language/cn_ch/cannownd.ab
+      Dependencies: {}
+    Info_39:
+      Name: assets/fish2donline/language/cn_ch/fish_book.ab
+      Dependencies: {}
+    Info_40:
+      Name: assets/fish2donline/language/cn_ch/main.ab
+      Dependencies: {}
+    Info_41:
+      Name: assets/fish2donline/language/cn_ch/zhongjiang.ab
+      Dependencies: {}
+    Info_42:
+      Name: assets/fish2donline/language/en_us/cannownd.ab
+      Dependencies: {}
+    Info_43:
+      Name: assets/fish2donline/language/en_us/fish_book.ab
+      Dependencies: {}
+    Info_44:
+      Name: assets/fish2donline/language/en_us/main.ab
+      Dependencies: {}
+    Info_45:
+      Name: assets/fish2donline/language/en_us/zhongjiang.ab
+      Dependencies: {}
+    Info_46:
+      Name: assets/fish2donline/language/pt/cannownd.ab
+      Dependencies: {}
+    Info_47:
+      Name: assets/fish2donline/language/pt/fish_book.ab
+      Dependencies: {}
+    Info_48:
+      Name: assets/fish2donline/language/pt/main.ab
+      Dependencies: {}
+    Info_49:
+      Name: assets/fish2donline/language/pt/zhongjiang.ab
+      Dependencies: {}
+    Info_50:
+      Name: assets/fish2donline/language/thai/cannownd.ab
+      Dependencies: {}
+    Info_51:
+      Name: assets/fish2donline/language/thai/fish_book.ab
+      Dependencies: {}
+    Info_52:
+      Name: assets/fish2donline/language/thai/main.ab
+      Dependencies: {}
+    Info_53:
+      Name: assets/fish2donline/language/thai/zhongjiang.ab
+      Dependencies: {}

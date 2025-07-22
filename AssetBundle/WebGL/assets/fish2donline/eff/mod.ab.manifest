@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2439679623
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7113fb525647a106e2807dc139d3f4d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1946a347a82cfd7cd86cf2b91b495260
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish2DOnline/Eff/Mod/yuanquan 1.FBX
+Dependencies:
+- E:/work/fish_Webgl/./AssetBundle/WebGL/assets/fish2donline/eff/mod/materials.ab

@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 1774770644
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 582424d07e04b88fb23c27b26a237174
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a05f5f3d195bec2b89af38e433b3891a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish2DOnline/Textures/main/dasixi.png
+- Assets/Fish2DOnline/Textures/main/touming-53.png
+- Assets/Fish2DOnline/Textures/main/pshot_sd_4_0.png
+- Assets/Fish2DOnline/Textures/main/btnAuto_03.png
+- Assets/Fish2DOnline/Textures/main/btnAuto_06.png
+- Assets/Fish2DOnline/Textures/main/paobeidiban.png
+- Assets/Fish2DOnline/Textures/main/btnClose.png
+- Assets/Fish2DOnline/Textures/main/btnLeave.png
+- Assets/Fish2DOnline/Textures/main/btnAuto.png
+- Assets/Fish2DOnline/Textures/main/main_Atlas.spriteatlasv2
+- Assets/Fish2DOnline/Textures/main/btnExpand.png
+- Assets/Fish2DOnline/Textures/main/btnAuto_02.png
+- Assets/Fish2DOnline/Textures/main/biaojiluxianwf.png
+- Assets/Fish2DOnline/Textures/main/btnAdd.png
+- Assets/Fish2DOnline/Textures/main/btnAuto_05.png
+- Assets/Fish2DOnline/Textures/main/btnAuto_00.png
+- Assets/Fish2DOnline/Textures/main/btnAuto_04.png
+- Assets/Fish2DOnline/Textures/main/btnAuto_07.png
+- Assets/Fish2DOnline/Textures/main/dasanyuan.png
+- Assets/Fish2DOnline/Textures/main/btnAuto_01.png
+- Assets/Fish2DOnline/Textures/main/btnExpand2.png
+- Assets/Fish2DOnline/Textures/main/btnSetting.png
+- Assets/Fish2DOnline/Textures/main/btnAuto_09.png
+- Assets/Fish2DOnline/Textures/main/BOSSlaixi.png
+- Assets/Fish2DOnline/Textures/main/gongnengdiban.png
+- Assets/Fish2DOnline/Textures/main/warning.png
+- Assets/Fish2DOnline/Textures/main/btnCannon.png
+- Assets/Fish2DOnline/Textures/main/btnAuto_08.png
+- Assets/Fish2DOnline/Textures/main/biaojiwf.png
+- Assets/Fish2DOnline/Textures/main/btnSub.png
+- Assets/Fish2DOnline/Textures/main/JB.png
+- Assets/Fish2DOnline/Textures/main/pshot_sd_0.png
+- Assets/Fish2DOnline/Textures/main/btn_auto_eff.png
+- Assets/Fish2DOnline/Textures/main/btnAuto_10.png
+- Assets/Fish2DOnline/Textures/main/shandian.mat
+- Assets/Fish2DOnline/Textures/main/btnLock.png
+- Assets/Fish2DOnline/Textures/main/jinbi.png
+- Assets/Fish2DOnline/Textures/main/jinbi1.png
+- Assets/Fish2DOnline/Textures/main/btnFishType.png
+- Assets/Fish2DOnline/Textures/main/unit_1.png
+- Assets/Fish2DOnline/Textures/main/btnAuto_11.png
+- Assets/Fish2DOnline/Textures/main/unit_my.png
+Dependencies: []

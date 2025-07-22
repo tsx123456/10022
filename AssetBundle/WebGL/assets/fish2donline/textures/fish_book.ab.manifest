@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3569871366
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: caff359272e91f178cb67a40e1878c29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish2DOnline/Textures/fish_book/beishuxianshikuang.png
+- Assets/Fish2DOnline/Textures/fish_book/_0008_jly.png
+- Assets/Fish2DOnline/Textures/fish_book/_0021_xly.png
+- Assets/Fish2DOnline/Textures/fish_book/_0013_sm.png
+- Assets/Fish2DOnline/Textures/fish_book/_0020_jwy.png
+- Assets/Fish2DOnline/Textures/fish_book/_0010_jax.png
+- Assets/Fish2DOnline/Textures/fish_book/_0019_lmg.png
+- Assets/Fish2DOnline/Textures/fish_book/_0016_qcy.png
+- Assets/Fish2DOnline/Textures/fish_book/_0005_ryc.png
+- Assets/Fish2DOnline/Textures/fish_book/_0024_ct.png
+- Assets/Fish2DOnline/Textures/fish_book/_0002_llbt.png
+- Assets/Fish2DOnline/Textures/fish_book/_0022_sxy.png
+- Assets/Fish2DOnline/Textures/fish_book/_0003_jl.png
+- Assets/Fish2DOnline/Textures/fish_book/_0000_dhlw.png
+- Assets/Fish2DOnline/Textures/fish_book/_0001_nz.png
+- Assets/Fish2DOnline/Textures/fish_book/_0006_ybg.png
+- Assets/Fish2DOnline/Textures/fish_book/_0012_cwy.png
+- Assets/Fish2DOnline/Textures/fish_book/_0014_jjx.png
+- Assets/Fish2DOnline/Textures/fish_book/_0018_ywdj.png
+- Assets/Fish2DOnline/Textures/fish_book/_0009_ylx.png
+- Assets/Fish2DOnline/Textures/fish_book/_0017_xhm.png
+- Assets/Fish2DOnline/Textures/fish_book/_0023_xfy.png
+- Assets/Fish2DOnline/Textures/fish_book/fish_book_Atlas.spriteatlasv2
+- Assets/Fish2DOnline/Textures/fish_book/_0007_hjy.png
+- Assets/Fish2DOnline/Textures/fish_book/_0004_qpzd.png
+- Assets/Fish2DOnline/Textures/fish_book/_0015_jcy.png
+- Assets/Fish2DOnline/Textures/fish_book/_0011_jwy.png
+Dependencies: []

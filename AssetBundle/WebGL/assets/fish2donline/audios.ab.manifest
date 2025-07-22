@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3400994192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8bed1b0d621a27522f3986b147712ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish2DOnline/Audios/big_6.mp3
+- Assets/Fish2DOnline/Audios/big_4.mp3
+- Assets/Fish2DOnline/Audios/medal1.mp3
+- Assets/Fish2DOnline/Audios/coin_fly.mp3
+- Assets/Fish2DOnline/Audios/gunShot.mp3
+- Assets/Fish2DOnline/Audios/small2.mp3
+- Assets/Fish2DOnline/Audios/small1.mp3
+- Assets/Fish2DOnline/Audios/changecannon.mp3
+- Assets/Fish2DOnline/Audios/big_2.mp3
+- Assets/Fish2DOnline/Audios/shandian_die.mp3
+- Assets/Fish2DOnline/Audios/big_10.mp3
+- Assets/Fish2DOnline/Audios/small3.mp3
+- Assets/Fish2DOnline/Audios/big_8.mp3
+- Assets/Fish2DOnline/Audios/coin_fish_dead.mp3
+- Assets/Fish2DOnline/Audios/big_7.mp3
+- Assets/Fish2DOnline/Audios/big_9.mp3
+- Assets/Fish2DOnline/Audios/big_3.mp3
+- Assets/Fish2DOnline/Audios/big_5.mp3
+- Assets/Fish2DOnline/Audios/boss_1.mp3
+- Assets/Fish2DOnline/Audios/boom.mp3
+- Assets/Fish2DOnline/Audios/bgm_1.mp3
+- Assets/Fish2DOnline/Audios/boss_2.mp3
+- Assets/Fish2DOnline/Audios/medal2.mp3
+- Assets/Fish2DOnline/Audios/big_1.mp3
+- Assets/Fish2DOnline/Audios/bossCome.mp3
+- Assets/Fish2DOnline/Audios/boss_3.mp3
+- Assets/Fish2DOnline/Audios/fishCoin.mp3
+- Assets/Fish2DOnline/Audios/small4.mp3
+Dependencies: []

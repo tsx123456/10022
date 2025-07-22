@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 353581651
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb7b21ad54a3d4366d162eace1990f45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 661b9e997c931501d0e4861c1d933db7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish2DOnline/Eff/Materials/explosion_smoke_1_sheet.mat
+- Assets/Fish2DOnline/Eff/Materials/cannon_muzzle_impact_circle_sheet.mat
+- Assets/Fish2DOnline/Eff/Materials/public_lightning_hit_X.mat
+- Assets/Fish2DOnline/Eff/Materials/impact_new_2_m_new_sheet.mat
+- Assets/Fish2DOnline/Eff/Materials/jingbi_01.mat
+- Assets/Fish2DOnline/Eff/Materials/Wanme1689.mat
+- Assets/Fish2DOnline/Eff/Materials/glow_blue.mat
+- Assets/Fish2DOnline/Eff/Materials/glow_474.mat
+- Assets/Fish2DOnline/Eff/Materials/cannon_muzzle_impact_a_sheet.mat
+- Assets/Fish2DOnline/Eff/Materials/flame_strike_3_sheet 1.mat
+- Assets/Fish2DOnline/Eff/Materials/yukina_skill7dropend_03_D.mat
+- Assets/Fish2DOnline/Eff/Materials/096_flash 1_00003.mat
+- Assets/Fish2DOnline/Eff/Materials/bashgrow1 copy 1.mat
+- Assets/Fish2DOnline/Eff/Materials/SpriteWaterRippleMaterial.mat
+- Assets/Fish2DOnline/Eff/Materials/kuang 1.mat
+- Assets/Fish2DOnline/Eff/Materials/public_hit_11_D.mat
+- Assets/Fish2DOnline/Eff/Materials/glow_line01.mat
+- Assets/Fish2DOnline/Eff/Materials/Water bead 1.mat
+- Assets/Fish2DOnline/Eff/Materials/claws_impact_big_flash_m_sheet.mat
+- Assets/Fish2DOnline/Eff/Materials/public_hit_04_D.mat
+- Assets/Fish2DOnline/Eff/Materials/blue_fire_2_sheet.mat
+- Assets/Fish2DOnline/Eff/Materials/096_flash 1_00002.mat
+- Assets/Fish2DOnline/Eff/Materials/shana_dazhao_03_X.mat
+- Assets/Fish2DOnline/Eff/Materials/glow_star.mat
+- Assets/Fish2DOnline/Eff/Materials/glow_475.mat
+- Assets/Fish2DOnline/Eff/Materials/fiend_mist_1_sheet.mat
+- Assets/Fish2DOnline/Eff/Materials/wargolem_cannon_impact_a_sheet_purple_bright.mat
+- Assets/Fish2DOnline/Eff/Materials/jinbi_03.mat
+- Assets/Fish2DOnline/Eff/Materials/glow_line02.mat
+- Assets/Fish2DOnline/Eff/Materials/lightning_strike_2_sheet_yellow 1.mat
+- Assets/Fish2DOnline/Eff/Materials/water_vertical_splash_sheet_cyan.mat
+- Assets/Fish2DOnline/Eff/Materials/blue_fire_1_sheet 1.mat
+- Assets/Fish2DOnline/Eff/Materials/claws_trail_cross_a_new_sheet.mat
+- Assets/Fish2DOnline/Eff/Materials/fiend_mist_ground_1_sheet_yellow.mat
+- Assets/Fish2DOnline/Eff/Materials/cannon_muzzle_impact_a_sheet 1.mat
+- Assets/Fish2DOnline/Eff/Materials/SpriteWaterRipple.shader
+- Assets/Fish2DOnline/Eff/Materials/kuroyukihime_s4_06.mat
+- Assets/Fish2DOnline/Eff/Materials/glow_quan01.mat
+- Assets/Fish2DOnline/Eff/Materials/glow_kuang.mat
+- Assets/Fish2DOnline/Eff/Materials/blue_fire_1_sheet.mat
+- Assets/Fish2DOnline/Eff/Materials/niuqucaizhi 5.mat
+Dependencies:
+- E:/work/fish_Webgl/./AssetBundle/WebGL/assets/fish2donline/eff/textures.ab
+- E:/work/fish_Webgl/./AssetBundle/WebGL/assets/fish2donline/textures/bg.ab

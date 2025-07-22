@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1589118788
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2480c31091a4a9a04d438ec4533b6857
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish2DOnline/Eff/Textures/Wanme1689.png
+- Assets/Fish2DOnline/Eff/Textures/kuroyukihime_s4_06.png
+- Assets/Fish2DOnline/Eff/Textures/fiend_mist_ground_1_sheet_yellow.png
+- Assets/Fish2DOnline/Eff/Textures/explosion_smoke_1_sheet.png
+- Assets/Fish2DOnline/Eff/Textures/Mask_432.tga
+- Assets/Fish2DOnline/Eff/Textures/glow_blue.tga
+- Assets/Fish2DOnline/Eff/Textures/boss_chuchangguang.png
+- Assets/Fish2DOnline/Eff/Textures/shana_dazhao_03_X.png
+- Assets/Fish2DOnline/Eff/Textures/Water bead 1.png
+- Assets/Fish2DOnline/Eff/Textures/blue_fire_2_sheet.png
+- Assets/Fish2DOnline/Eff/Textures/glow_line01.tga
+- Assets/Fish2DOnline/Eff/Textures/cannon_muzzle_impact_a_sheet.png
+- Assets/Fish2DOnline/Eff/Textures/cannon_muzzle_impact_a_sheet 1.png
+- Assets/Fish2DOnline/Eff/Textures/public_hit_11_D.png
+- Assets/Fish2DOnline/Eff/Textures/public_hit_04_D.png
+- Assets/Fish2DOnline/Eff/Textures/flame_strike_3_sheet 1.png
+- Assets/Fish2DOnline/Eff/Textures/cannon_muzzle_impact_circle_sheet.png
+- Assets/Fish2DOnline/Eff/Textures/096_flash 1_00002.png
+- Assets/Fish2DOnline/Eff/Textures/bashgrow1 copy 1.tga
+- Assets/Fish2DOnline/Eff/Textures/fiend_mist_1_sheet.png
+- Assets/Fish2DOnline/Eff/Textures/cannon_muzzle_impact_smoke_sheet.png
+- Assets/Fish2DOnline/Eff/Textures/claws_trail_cross_a_new_sheet.png
+- Assets/Fish2DOnline/Eff/Textures/glow_474.TGA
+- Assets/Fish2DOnline/Eff/Textures/yukina_skill7dropend_03_D.png
+- Assets/Fish2DOnline/Eff/Textures/glow_star.bmp
+- Assets/Fish2DOnline/Eff/Textures/lightning_strike_2_sheet_yellow 1.png
+- Assets/Fish2DOnline/Eff/Textures/claws_impact_big_flash_m_sheet.png
+- Assets/Fish2DOnline/Eff/Textures/jinggao_01.png
+- Assets/Fish2DOnline/Eff/Textures/jingbi_01.png
+- Assets/Fish2DOnline/Eff/Textures/textures_Atlas.spriteatlasv2
+- Assets/Fish2DOnline/Eff/Textures/glow_kuang.tga
+- Assets/Fish2DOnline/Eff/Textures/glow_quan01.tga
+- Assets/Fish2DOnline/Eff/Textures/public_lightning_hit_X.png
+- Assets/Fish2DOnline/Eff/Textures/fiend_mist_ground_1_sheet_dust.png
+- Assets/Fish2DOnline/Eff/Textures/kuang 1.png
+- Assets/Fish2DOnline/Eff/Textures/jinbi_03.tga
+- Assets/Fish2DOnline/Eff/Textures/blue_fire_1_sheet.png
+- Assets/Fish2DOnline/Eff/Textures/water_vertical_splash_sheet_cyan.png
+Dependencies: []

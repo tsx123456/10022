@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 313468083
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc831b2783891f0099bbf0f6e60b6a18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a1b7ef0daf02bbac8fa6f9a792d9df0
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish2DOnline/Anim/shandian.controller
+- Assets/Fish2DOnline/Anim/shandian.anim
+Dependencies: []

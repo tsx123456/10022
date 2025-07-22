@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2313767038
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84f0e8db2cee4e97f1d92541b734bae1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish2DOnline/language/en_US/cannoWnd/title_buyupaotai.png
+Dependencies: []

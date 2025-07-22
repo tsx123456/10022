@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1004176699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c490f93aff2811c970a3b39e271a9c71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish2DOnline/Textures/zhongjiang/zhongjiangdi.png
+- Assets/Fish2DOnline/Textures/zhongjiang/jinbidiban.png
+- Assets/Fish2DOnline/Textures/zhongjiang/zjszdb.png
+- Assets/Fish2DOnline/Textures/zhongjiang/facaidiban.png
+- Assets/Fish2DOnline/Textures/zhongjiang/zhongjiang_Atlas.spriteatlasv2
+- Assets/Fish2DOnline/Textures/zhongjiang/zjdiban.png
+Dependencies: []

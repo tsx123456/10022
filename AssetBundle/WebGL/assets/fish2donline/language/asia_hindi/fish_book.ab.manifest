@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2837626731
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f46b2003658f06a31330738e1e36669
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish2DOnline/language/Asia_Hindi/fish_book/_0026__dasanyuan.png
+- Assets/Fish2DOnline/language/Asia_Hindi/fish_book/_0025__dasixi.png
+- Assets/Fish2DOnline/language/Asia_Hindi/fish_book/title_yuchongtujian.png
+Dependencies: []

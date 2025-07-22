@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 3770767897
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69316ea4db88f83a15000e8ff1141585
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cd35f589fb98caf256b37203c67859eb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7ebaf7ce8f270c4585a326c77c0abe1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c81f59a48ac21be449cc144084794f41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aad38f5673f52164796fe052e9a5384c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Fish2DOnline/Canno/Canno3.prefab
+- Assets/Fish2DOnline/Canno/Web_2.prefab
+- Assets/Fish2DOnline/Canno/Canno4.prefab
+- Assets/Fish2DOnline/Canno/Bullet_5.prefab
+- Assets/Fish2DOnline/Canno/Bullet_3.prefab
+- Assets/Fish2DOnline/Canno/Bullet_1.prefab
+- Assets/Fish2DOnline/Canno/Canno5.prefab
+- Assets/Fish2DOnline/Canno/Bullet_4.prefab
+- Assets/Fish2DOnline/Canno/Canno1.prefab
+- Assets/Fish2DOnline/Canno/Canno2.prefab
+- Assets/Fish2DOnline/Canno/Web_4.prefab
+- Assets/Fish2DOnline/Canno/Bullet_2.prefab
+- Assets/Fish2DOnline/Canno/Web_1.prefab
+- Assets/Fish2DOnline/Canno/Web_5.prefab
+- Assets/Fish2DOnline/Canno/Web_3.prefab
+Dependencies:
+- E:/work/fish_Webgl/./AssetBundle/WebGL/assets/fish2donline/eff/materials.ab
+- E:/work/fish_Webgl/./AssetBundle/WebGL/assets/fish2donline/eff/mod.ab
+- E:/work/fish_Webgl/./AssetBundle/WebGL/assets/fish2donline/textures/bullet.ab
+- E:/work/fish_Webgl/./AssetBundle/WebGL/assets/fish2donline/textures/canno.ab
