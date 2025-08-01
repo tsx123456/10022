@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3869808044
+CRC: 3867440771
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 10042360ae91a15d11e406c5494713c4
+    Hash: 2b5f4a752615f00cc76248114a68f44b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ad585dd02dfb5016c0dad519eab8f49
@@ -13,17 +13,17 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Fish2DOnline/Scripts/Fish2DOnline_Player.lua.bytes
-- Assets/Fish2DOnline/Scripts/Fish2DOnline_Follow.lua.bytes
-- Assets/Fish2DOnline/Scripts/Fish2DOnline_FishBook.lua.bytes
+- Assets/Fish2DOnline/Scripts/Fish2DOnline_Main.lua.bytes
+- Assets/Fish2DOnline/Scripts/Fish2DOnline_CannoWnd.lua.bytes
 - Assets/Fish2DOnline/Scripts/Fish2DOnline_Robot.lua.bytes
+- Assets/Fish2DOnline/Scripts/Fish2DOnline_AutoAttackFrame.lua.bytes
 - Assets/Fish2DOnline/Scripts/Fish2DOnline_OtherPlayer.lua.bytes
 - Assets/Fish2DOnline/Scripts/Fish2DOnline_goldZhuMove.lua.bytes
-- Assets/Fish2DOnline/Scripts/Fish2DOnline_CannoWnd.lua.bytes
-- Assets/Fish2DOnline/Scripts/Fish2DOnline_AutoAttackFrame.lua.bytes
-- Assets/Fish2DOnline/Scripts/Entry.lua.bytes
-- Assets/Fish2DOnline/Scripts/Fish2DOnline_Bullet.lua.bytes
-- Assets/Fish2DOnline/Scripts/Fish2DOnline_Main.lua.bytes
 - Assets/Fish2DOnline/Scripts/Fish2DOnline_FishObjects.lua.bytes
+- Assets/Fish2DOnline/Scripts/Fish2DOnline_Bullet.lua.bytes
+- Assets/Fish2DOnline/Scripts/Fish2DOnline_Player.lua.bytes
+- Assets/Fish2DOnline/Scripts/Fish2DOnline_FishBook.lua.bytes
+- Assets/Fish2DOnline/Scripts/Fish2DOnline_Follow.lua.bytes
+- Assets/Fish2DOnline/Scripts/Entry.lua.bytes
 - Assets/Fish2DOnline/Scripts/Fish2DOnline_Config.lua.bytes
 Dependencies: []

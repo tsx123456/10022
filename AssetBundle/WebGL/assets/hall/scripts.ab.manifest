@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2796064873
+CRC: 136216745
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ea74a37c4ef48c6ba87ff39b21436219
+    Hash: 29e3e1cdd74030e1e8cd73a6d9abea28
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ad585dd02dfb5016c0dad519eab8f49
@@ -13,27 +13,27 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Hall/Scripts/xlua.util.lua.bytes
-- Assets/Hall/Scripts/cs_coroutine.lua.bytes
-- Assets/Hall/Scripts/AsynLoad.lua.bytes
-- Assets/Hall/Scripts/versions.lua.bytes
-- Assets/Hall/Scripts/Invoke.lua.bytes
-- Assets/Hall/Scripts/paths.lua.bytes
-- Assets/Hall/Scripts/Common.lua.bytes
-- Assets/Hall/Scripts/ProtoDispatch.lua.bytes
-- Assets/Hall/Scripts/UILableEx.lua.bytes
-- Assets/Hall/Scripts/Define.lua.bytes
-- Assets/Hall/Scripts/Const.lua.bytes
-- Assets/Hall/Scripts/JSON.lua.bytes
-- Assets/Hall/Scripts/list.lua.bytes
-- Assets/Hall/Scripts/Functions.lua.bytes
-- Assets/Hall/Scripts/Config.lua.bytes
-- Assets/Hall/Scripts/Main.lua.bytes
-- Assets/Hall/Scripts/Timer.lua.bytes
 - Assets/Hall/Scripts/CoroutineEx.lua.bytes
-- Assets/Hall/Scripts/language.lua.bytes
+- Assets/Hall/Scripts/Const.lua.bytes
+- Assets/Hall/Scripts/versions.lua.bytes
+- Assets/Hall/Scripts/Timer.lua.bytes
+- Assets/Hall/Scripts/Common.lua.bytes
 - Assets/Hall/Scripts/ImageEx.lua.bytes
-- Assets/Hall/Scripts/TextEx.lua.bytes
+- Assets/Hall/Scripts/list.lua.bytes
+- Assets/Hall/Scripts/cs_coroutine.lua.bytes
+- Assets/Hall/Scripts/Main.lua.bytes
+- Assets/Hall/Scripts/ProtoDispatch.lua.bytes
 - Assets/Hall/Scripts/UtilsStrTool.lua.bytes
+- Assets/Hall/Scripts/paths.lua.bytes
+- Assets/Hall/Scripts/Invoke.lua.bytes
+- Assets/Hall/Scripts/UILableEx.lua.bytes
+- Assets/Hall/Scripts/Config.lua.bytes
+- Assets/Hall/Scripts/TextEx.lua.bytes
+- Assets/Hall/Scripts/xlua.util.lua.bytes
+- Assets/Hall/Scripts/AsynLoad.lua.bytes
 - Assets/Hall/Scripts/GameResEx.lua.bytes
+- Assets/Hall/Scripts/Define.lua.bytes
+- Assets/Hall/Scripts/JSON.lua.bytes
+- Assets/Hall/Scripts/language.lua.bytes
+- Assets/Hall/Scripts/Functions.lua.bytes
 Dependencies: []
