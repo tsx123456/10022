@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 630964370
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2cd462adc54e3492f160352fa2400eec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 581b3578cfa4f60157e4db8f72d70d3a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -333801856, guid: aa0b1eebb5db27a419fa4564bbe5c9c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aad38f5673f52164796fe052e9a5384c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: DOTween
+  ClassName: DG.Tweening.Plugins.Core.PathCore.Path
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/Fish2DOnline/Eff/Web_03.prefab
+- Assets/Fish2DOnline/Eff/btnLockEff.prefab
+- Assets/Fish2DOnline/Eff/fish_302Eff.prefab
+- Assets/Fish2DOnline/Eff/fish_303Eff.prefab
+- Assets/Fish2DOnline/Eff/Web_01.prefab
+- Assets/Fish2DOnline/Eff/Web_05.prefab
+- Assets/Fish2DOnline/Eff/fish_304Eff.prefab
+- Assets/Fish2DOnline/Eff/fishTideEff.prefab
+- Assets/Fish2DOnline/Eff/btnAutoEff.prefab
+- Assets/Fish2DOnline/Eff/bigboomeff.prefab
+- Assets/Fish2DOnline/Eff/boomeff.prefab
+- Assets/Fish2DOnline/Eff/fish_503Eff.prefab
+- Assets/Fish2DOnline/Eff/Web_02.prefab
+- Assets/Fish2DOnline/Eff/Eff.prefab
+- Assets/Fish2DOnline/Eff/fish_501Eff.prefab
+- Assets/Fish2DOnline/Eff/fish_301Eff.prefab
+- Assets/Fish2DOnline/Eff/Web_04.prefab
+- Assets/Fish2DOnline/Eff/bossboomeff.prefab
+- Assets/Fish2DOnline/Eff/baozha.prefab
+Dependencies:
+- E:/work/fish_Webgl/./AssetBundle/WebGL/assets/fish2donline/eff/materials.ab
+- E:/work/fish_Webgl/./AssetBundle/WebGL/assets/fish2donline/eff/mod.ab

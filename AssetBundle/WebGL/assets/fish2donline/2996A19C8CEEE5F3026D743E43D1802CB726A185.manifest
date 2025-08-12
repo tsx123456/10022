@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 1339028020
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8cba48dbbcf553f517aebdafce89adf9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7f19da6f1ab881a02218bf68f61f3111
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/Fish2DOnline/Fish/fish_102.prefab
+- Assets/Fish2DOnline/Fish/fish_104.prefab
+- Assets/Fish2DOnline/Fish/fish_201.prefab
+- Assets/Fish2DOnline/Fish/fish_503.prefab
+- Assets/Fish2DOnline/Fish/fish_402.prefab
+- Assets/Fish2DOnline/Fish/fish_401.prefab
+- Assets/Fish2DOnline/Fish/fish_103.prefab
+- Assets/Fish2DOnline/Fish/fish_203.prefab
+- Assets/Fish2DOnline/Fish/fish_101.prefab
+- Assets/Fish2DOnline/Fish/fish_305.prefab
+- Assets/Fish2DOnline/Fish/fish_105.prefab
+- Assets/Fish2DOnline/Fish/fish_206.prefab
+- Assets/Fish2DOnline/Fish/fish_202.prefab
+- Assets/Fish2DOnline/Fish/fish_502.prefab
+- Assets/Fish2DOnline/Fish/fish_504.prefab
+- Assets/Fish2DOnline/Fish/fish_304.prefab
+- Assets/Fish2DOnline/Fish/fish_205.prefab
+- Assets/Fish2DOnline/Fish/fish_207.prefab
+- Assets/Fish2DOnline/Fish/fish_306.prefab
+- Assets/Fish2DOnline/Fish/fish_302.prefab
+- Assets/Fish2DOnline/Fish/fish_505.prefab
+- Assets/Fish2DOnline/Fish/fish_301.prefab
+- Assets/Fish2DOnline/Fish/fish_403.prefab
+- Assets/Fish2DOnline/Fish/fish_501.prefab
+- Assets/Fish2DOnline/Fish/fish_204.prefab
+- Assets/Fish2DOnline/Fish/fish_303.prefab
+Dependencies:
+- E:/work/fish_Webgl/./AssetBundle/WebGL/assets/fish2donline/eff/materials.ab
+- E:/work/fish_Webgl/./AssetBundle/WebGL/assets/fish2donline/textures/fish_spine.ab
+- E:/work/fish_Webgl/./AssetBundle/WebGL/assets/fish2donline/textures/main.ab

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1266979175
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6d49ad9408455cf7255b6d628baaa56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish2DOnline/Textures/cannoWnd/diban.png
+- Assets/Fish2DOnline/Textures/cannoWnd/btn_right.png
+- Assets/Fish2DOnline/Textures/cannoWnd/shanhu.png
+- Assets/Fish2DOnline/Textures/cannoWnd/btn_left.png
+- Assets/Fish2DOnline/Textures/cannoWnd/haicao.png
+- Assets/Fish2DOnline/Textures/cannoWnd/cannoWnd_Atlas.spriteatlasv2
+- Assets/Fish2DOnline/Textures/cannoWnd/btn_shiyong.png
+- Assets/Fish2DOnline/Textures/cannoWnd/btn_shiyongzhong.png
+- Assets/Fish2DOnline/Textures/cannoWnd/paitaitupian.png
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 389240879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58787484fd421d1d2ad738756f6abd45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish2DOnline/language/pt/main/pochanwf.png
+- Assets/Fish2DOnline/language/pt/main/youchaolailing.png
+- Assets/Fish2DOnline/language/pt/main/bs_jiantou_weizhiwf.png
+Dependencies: []
