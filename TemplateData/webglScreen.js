@@ -101,12 +101,13 @@ function RotScreen() {
     }
   } else {
     if (window.WebglOrientation == WebglScreenOrientation.Portrait) {
-      window.gameframe.style.transformOrigin = "top right"
-      window.gameframe.style.transform = "rotate(-90deg) translateY(-100vh)"
+      //window.gameframe.style.transformOrigin = "top right"
+      //window.gameframe.style.transform = "rotate(-90deg) translateY(-100vh)"
+      
       // window.gameframe.style.height = '100vw';
       // window.gameframe.style.width = '100vh';
-       window.gameframe.style.height = window.innerWidth + 'px';
-      window.gameframe.style.width = window.innerHeight + 'px';
+      window.gameframe.style.height = window.innerHeight + 'px';
+      window.gameframe.style.width = window.innerWidth + 'px';
       console.log('RotScreen code =',4);
     }
     else {
