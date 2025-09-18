@@ -30,6 +30,7 @@
     window.gameframe.src = 'game.html' + window.location.search;
     // 解析查询参数
     const params = new URLSearchParams(window.location.search);
+    const isCloseWebView = params.get('isCloseWebView');
     const screen = params.get('screen');
     console.log('screen =', screen);
     if (screen === '0') {
@@ -83,6 +84,19 @@
 <!--    xhr.open("GET", url, true);-->
 <!--    xhr.send()-->
 <!--</script>-->
+
+<script>
+    function CloseWebView() {
+        if (isCloseWebView !== "1"){
+            return
+        }
+        console.log('index.xml CloseWebView')
+        // Android.newTppClose()
+        JSBridgeService.newTppClose();
+        console.log('index.xml CloseWebView end')
+    }
+</script>
+
 <style>
 
 </style>
