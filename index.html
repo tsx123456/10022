@@ -92,7 +92,11 @@
         }
         console.log('index.xml CloseWebView')
         // Android.newTppClose()
-        JSBridgeService.newTppClose();
+        try {
+            JSBridgeService.newTppClose();
+        } catch (e) {
+            console.warn('JSBridgeService.newTppClose :', e)
+        }
         console.log('index.xml CloseWebView end')
     }
 </script>
