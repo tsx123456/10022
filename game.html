@@ -15,7 +15,7 @@
     <img id="animatedGif" class="progress-bar-image" src="./TemplateData/入場.webp" alt="" srcset="" />
 </div>
 <div id="initial-loader-1">
-    <img class="initial-loader-img" src="./TemplateData/循環.webp" alt="" srcset="" />
+    <img id="animatedGifCycle" class="initial-loader-img" src="./TemplateData/循環.webp" alt="" srcset="" />
 </div>
 <div id="unity-container" class="unity-desktop">
     <canvas id="unity-canvas" width=960 height=600></canvas>
@@ -73,9 +73,9 @@
     var buildUrl = "Build";
     var loaderUrl = buildUrl + "/20001_br.loader.js";
     var config = {
-        dataUrl: buildUrl + "/5c6bc134622932b78a8e6338400fffc5.data.unityweb",
-        frameworkUrl: buildUrl + "/7b54e6f536ddcbc38a005152ceeb03c3.js.unityweb",
-        codeUrl: buildUrl + "/8c3f3b9f151ef77e0a98a9c118f7ddea.wasm.unityweb",
+        dataUrl: buildUrl + "/140f40438f8d58cb1eb4310c15b034f4.data.unityweb",
+        frameworkUrl: buildUrl + "/5a0ca77800b60a46dbff2456b422f53e.js.unityweb",
+        codeUrl: buildUrl + "/2521e9a2f99540ac474180ed63892107.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Dragon King Fishing",
     productName: "Dragon King Fishing",
@@ -164,7 +164,27 @@
     document.body.appendChild(script);
 
     function reloadAnimation() {
+        // 读取父页面传过来的参数
+        const urlParams = new URLSearchParams(window.location.search);
+        const brandName= urlParams.get('brandName');
+
+
+        let animatedGifCycle = document.getElementById("animatedGifCycle");
+        var gifName = "";
+
+        if (brandName === 'hy'){
+            gifName = 'hy.webp'
+            animatedGifCycle.src = './TemplateData/hyCycle.webp'
+        }else if(brandName === 'kf'){
+            gifName = 'kf.webp'
+            animatedGifCycle.src = './TemplateData/kfCycle.webp'
+        }else{
+            gifName = 'kf.webp'
+            animatedGifCycle.src = './TemplateData/kfCycle.webp'
+        }
         let img = document.getElementById("animatedGif");
+        img.src = './TemplateData/' + gifName;
+
         const originalSrc = img.src;
 
         // 清空src再重新设置
