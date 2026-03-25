@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3132002699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30fcdd051d893b67a3df47e7a133fc9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish2DOnline/language/ru/zhongjiang/dasixi.png
+- Assets/Fish2DOnline/language/ru/zhongjiang/ywdj.png
+- Assets/Fish2DOnline/language/ru/zhongjiang/fahengcai.png
+- Assets/Fish2DOnline/language/ru/zhongjiang/dasanyuan.png
+- Assets/Fish2DOnline/language/ru/zhongjiang/quanpingzhadan.png
+- Assets/Fish2DOnline/language/ru/zhongjiang/baofula.png
+Dependencies: []

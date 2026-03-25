@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1299327605
+CRC: 361664236
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -182,14 +182,26 @@ AssetBundleManifest:
       Name: assets/fish2donline/language/pt/zhongjiang.ab
       Dependencies: {}
     Info_50:
-      Name: assets/fish2donline/language/thai/cannownd.ab
+      Name: assets/fish2donline/language/ru/cannownd.ab
       Dependencies: {}
     Info_51:
-      Name: assets/fish2donline/language/thai/fish_book.ab
+      Name: assets/fish2donline/language/ru/fish_book.ab
       Dependencies: {}
     Info_52:
-      Name: assets/fish2donline/language/thai/main.ab
+      Name: assets/fish2donline/language/ru/main.ab
       Dependencies: {}
     Info_53:
+      Name: assets/fish2donline/language/ru/zhongjiang.ab
+      Dependencies: {}
+    Info_54:
+      Name: assets/fish2donline/language/thai/cannownd.ab
+      Dependencies: {}
+    Info_55:
+      Name: assets/fish2donline/language/thai/fish_book.ab
+      Dependencies: {}
+    Info_56:
+      Name: assets/fish2donline/language/thai/main.ab
+      Dependencies: {}
+    Info_57:
       Name: assets/fish2donline/language/thai/zhongjiang.ab
       Dependencies: {}
